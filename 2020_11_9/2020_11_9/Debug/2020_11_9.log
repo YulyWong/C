@@ -1,0 +1,8 @@
+﻿  contact.c
+c:\users\asus\source\repos\2020_11_9\2020_11_9\contact.c(88): warning C4477: “scanf”: 格式字符串“%d”需要类型“int *”的参数，但可变参数 1 拥有了类型“short *”
+  c:\users\asus\source\repos\2020_11_9\2020_11_9\contact.c(88): note: 请考虑在格式字符串中使用“%hd”
+c:\users\asus\source\repos\2020_11_9\2020_11_9\contact.c(213): warning C4477: “scanf”: 格式字符串“%d”需要类型“int *”的参数，但可变参数 1 拥有了类型“short *”
+  c:\users\asus\source\repos\2020_11_9\2020_11_9\contact.c(213): note: 请考虑在格式字符串中使用“%hd”
+  test.c
+  正在生成代码...
+  2020_11_9.vcxproj -> C:\Users\asus\source\repos\2020_11_9\Debug\2020_11_9.exe
