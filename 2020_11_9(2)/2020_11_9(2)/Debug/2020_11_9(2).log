@@ -1,0 +1,4 @@
+﻿  test.c
+c:\users\asus\source\repos\2020_11_9(2)\2020_11_9(2)\test.c(44): warning C4244: “return”: 从“__int64”转换到“int”，可能丢失数据
+c:\users\asus\source\repos\2020_11_9(2)\2020_11_9(2)\test.c(49): warning C4047: “初始化”:“char *”与“int”的间接级别不同
+  2020_11_9(2).vcxproj -> C:\Users\asus\source\repos\2020_11_9(2)\Debug\2020_11_9(2).exe
